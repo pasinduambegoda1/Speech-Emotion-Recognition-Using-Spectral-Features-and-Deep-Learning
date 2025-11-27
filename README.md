@@ -1,0 +1,1 @@
+# Speech-Emotion-Recognition-Using-Spectral-Features-and-Deep-Learning
